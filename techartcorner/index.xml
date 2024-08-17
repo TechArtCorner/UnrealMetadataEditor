@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech Art Corner :: Unreal Metadata Editor Documentation</title>
-    <link>//localhost:1313/techartcorner/index.html</link>
+    <link>unrealmetadataeditor.github.io/techartcorner/index.html</link>
     <description>This plugin has been brought to you by Tech Art Corner. I hope it will serve you well, And you will no longer be irritated by lack of some simple metadata editor that does not require scripting or creating a node graph to just add a simple tag to an asset.&#xA;I’m open to feedback and if by any chance, this plugin gets popular, I’m looking forward to making it better.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/techartcorner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="unrealmetadataeditor.github.io/techartcorner/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
