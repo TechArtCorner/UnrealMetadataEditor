@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Why Metadata :: Unreal Metadata Editor Documentation</title>
-    <link>/whymetadata/index.html</link>
+    <link>//localhost:1313/whymetadata/index.html</link>
     <description>Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.&#xA;Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.&#xA;It can help you in daily situations like looking for an author of an asset.&#xA;Of course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/whymetadata/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/whymetadata/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

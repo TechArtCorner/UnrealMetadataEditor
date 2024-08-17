@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Guide :: Unreal Metadata Editor Documentation</title>
-    <link>/userguide/index.html</link>
+    <link>//localhost:1313/userguide/index.html</link>
     <description>Metadata Editor User Guide It’s main purpose is to make metadata editing simple and thus this guide also will be simple. Key information Editor can edit only one asset at a time. If multiple assets were selected, editor will open for the first one. Name of selected asset is always visible in top left side of the editor.&#xA;Edit metadata of an asset Pick an asset of choice in Content Browser and Right Mouse Button on it.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/userguide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/userguide/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
