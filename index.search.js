@@ -5,7 +5,7 @@ var relearn_search_index = [
     "description": "Installation Installation from Unreal Marketplace Up to date installation guide for Unreal Marketplace users: Official Documentation\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins. Search for Metadata Editor and toggle the plugin.",
     "tags": [],
     "title": "Installation",
-    "uri": "/UnrealMetadataEditor/installation/index.html"
+    "uri": "/installation/index.html"
   },
   {
     "breadcrumb": "Overview",
@@ -13,7 +13,7 @@ var relearn_search_index = [
     "description": "Metadata Editor User Guide It’s main purpose is to make metadata editing simple and thus this guide also will be simple. Key information Editor can edit only one asset at a time. If multiple assets were selected, editor will open for the first one. Name of selected asset is always visible in top left side of the editor.\nEdit metadata of an asset Pick an asset of choice in Content Browser and Right Mouse Button on it.",
     "tags": [],
     "title": "User Guide",
-    "uri": "/UnrealMetadataEditor/userguide/index.html"
+    "uri": "/userguide/index.html"
   },
   {
     "breadcrumb": "Overview",
@@ -21,7 +21,7 @@ var relearn_search_index = [
     "description": "Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.\nSuch information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.\nIt can help you in daily situations like looking for an author of an asset.\nOf course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.",
     "tags": [],
     "title": "Why Metadata",
-    "uri": "/UnrealMetadataEditor/whymetadata/index.html"
+    "uri": "/whymetadata/index.html"
   },
   {
     "breadcrumb": "Overview",
@@ -29,7 +29,7 @@ var relearn_search_index = [
     "description": "This plugin has been brought to you by Tech Art Corner. I hope it will serve you well, And you will no longer be irritated by lack of some simple metadata editor that does not require scripting or creating a node graph to just add a simple tag to an asset.\nI’m open to feedback and if by any chance, this plugin gets popular, I’m looking forward to making it better.",
     "tags": [],
     "title": "Tech Art Corner",
-    "uri": "/UnrealMetadataEditor/techartcorner/index.html"
+    "uri": "/techartcorner/index.html"
   },
   {
     "breadcrumb": "",
@@ -37,7 +37,7 @@ var relearn_search_index = [
     "description": "Unreal Metadata Editor A friendly user interface for editing Unreal asset metadata. Currently, plugin supports editing a single asset at once.",
     "tags": [],
     "title": "Overview",
-    "uri": "/UnrealMetadataEditor/index.html"
+    "uri": "/index.html"
   },
   {
     "breadcrumb": "Overview",
@@ -45,7 +45,7 @@ var relearn_search_index = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/UnrealMetadataEditor/categories/index.html"
+    "uri": "/categories/index.html"
   },
   {
     "breadcrumb": "Overview",
@@ -53,6 +53,6 @@ var relearn_search_index = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/UnrealMetadataEditor/tags/index.html"
+    "uri": "/tags/index.html"
   }
 ]

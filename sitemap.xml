@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/installation/index.html</loc>
+    <loc>/installation/index.html</loc>
   </url>
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/userguide/index.html</loc>
+    <loc>/userguide/index.html</loc>
   </url>
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/whymetadata/index.html</loc>
+    <loc>/whymetadata/index.html</loc>
   </url>
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/techartcorner/index.html</loc>
+    <loc>/techartcorner/index.html</loc>
   </url>
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/index.html</loc>
+    <loc>/index.html</loc>
     <lastmod>2024-08-15T00:08:37+02:00</lastmod>
   </url>
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/categories/index.html</loc>
+    <loc>/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://techartcorner.github.io/UnrealMetadataEditor/tags/index.html</loc>
+    <loc>/tags/index.html</loc>
   </url>
 </urlset>
