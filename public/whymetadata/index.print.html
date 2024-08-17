@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.132.2">
+    <meta name="generator" content="Relearn 6.1.1+tip">
+    <meta name="description" content="Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.
+Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.
+It can help you in daily situations like looking for an author of an asset.
+Of course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Why Metadata :: Unreal Metadata Editor Documentation">
+    <meta name="twitter:description" content="Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.
+Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.
+It can help you in daily situations like looking for an author of an asset.
+Of course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.">
+    <meta property="og:url" content="//localhost:1313/whymetadata/index.html">
+    <meta property="og:site_name" content="Unreal Metadata Editor Documentation">
+    <meta property="og:title" content="Why Metadata :: Unreal Metadata Editor Documentation">
+    <meta property="og:description" content="Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.
+Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.
+It can help you in daily situations like looking for an author of an asset.
+Of course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.">
+    <meta property="og:locale" content="en_us">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Overview">
+    <meta itemprop="name" content="Why Metadata :: Unreal Metadata Editor Documentation">
+    <meta itemprop="description" content="Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.
+Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.
+It can help you in daily situations like looking for an author of an asset.
+Of course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.">
+    <meta itemprop="wordCount" content="420">
+    <title>Why Metadata :: Unreal Metadata Editor Documentation</title>
+    <link href="//localhost:1313/whymetadata/index.html" rel="canonical" type="text/html" title="Why Metadata :: Unreal Metadata Editor Documentation">
+    <link href="/whymetadata/index.xml" rel="alternate" type="application/rss+xml" title="Why Metadata :: Unreal Metadata Editor Documentation">
+    <link href="/css/fontawesome-all.min.css?1723930790" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1723930790" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1723930790" rel="stylesheet">
+    <link href="/css/auto-complete.css?1723930790" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1723930790" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1723930790" rel="stylesheet">
+    <link href="/css/fonts.css?1723930790" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1723930790" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1723930790" rel="stylesheet">
+    <link href="/css/theme-Dark%20Mode.css?1723930790" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-relearn-dark.css?1723930790" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1723930790" rel="stylesheet">
+    <link href="/css/print.css?1723930790" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1723930790" rel="stylesheet">
+    <script src="/js/variant.js?1723930790"></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='..';
+      window.relearn.relBaseUri='..';
+      window.relearn.absBaseUri='\/\/localhost:1313';
+      window.index_js_url="/index.search.js?1723930790";
+      // variant stuff
+      window.variants && variants.init( [ 'Dark Mode', 'Light Mode' ] );
+      // translations
+      window.T_Copy_to_clipboard = `Copy to clipboard`;
+      window.T_Copied_to_clipboard = `Copied to clipboard!`;
+      window.T_Copy_link_to_clipboard = `Copy link to clipboard`;
+      window.T_Link_copied_to_clipboard = `Copied link to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+    </script>
+  </head>
+  <body class="mobile-support print" data-url="/whymetadata/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/index.html"><span itemprop="name">Overview</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Why Metadata</span><meta itemprop="position" content="2"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/userguide/index.html" title="User Guide (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/techartcorner/index.html" title="Tech Art Corner (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="default">
+            <header class="headline">
+            </header>
+
+<h1 id="why-metadata">Why Metadata</h1>
+
+<h2 id="why-use-asset-metadata-at-all">Why use asset Metadata at all?</h2>
+<h4 id="metadata-describes-an-asset">Metadata describes an asset</h4>
+<p>Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.<br>
+Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn&rsquo;t)
+certain criteria.<br>
+It can help you in daily situations like looking for an author of an asset.<br>
+Of course, this case should be already taken cared by a Version Control System but in that case, <br>
+it&rsquo;s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.</p>
+<h4 id="it-helps-you-find-assets">It helps you find assets</h4>
+<p>Imagine a situation where all assets exported with Animation Exporter 1.3 are broken.<br>
+What if it has been in use for a whole month? What if artists were using different versions of exporter at the same time?<br>
+We should be able to find all those broken assets and either re-export them or apply  some kind, of a fix.<br>
+Supposing that all assets store software of origin, exporter and their versions in metadata, finding broken assets can be automated and done in few minutes even if thera are hundreds of assets to filter.</p>
+<p>That may sound like an extreme case, but using metadata to find assets to be processed in such or other way is common and the bigger the project, the more often it will be needed.<br>
+Saving metadata is not that hard to implement and can really save your day in such situations.</p>
+<h4 id="it-may-drive-automation-behaviour">It may drive automation behaviour</h4>
+<p>Some metadata is not primarily meant for describing or finding assets.<br>
+Sometimes some helper variable is meant for a tool.<br>
+Maybe this variable will decide what kind of settings will be applied after importing.<br>
+Or maybe, it will help you distinguish mesh that is being re-imported from a mesh that is being imported for a first time <a href="https://ryandowlingsoka.com/unreal/post-asset-import-rules/#what-about-reimports" rel="external" target="_blank">because import system that you are extending does not do it for you</a></p>
+<h4 id="better-to-have-it-than-not-to">Better to have it, than not to</h4>
+<p>Metadata may not come handy on your first day of work. You may start storing it and forget about it for some time without having a need to use it.<br>
+It&rsquo;s alright.<br>
+But it may get really bad when you finally need it but don&rsquo;t have.<br>
+It&rsquo;s one of those things that are easy to start gathering and don&rsquo;t require sophisticated solutions at the beginning.<br>
+That little extra effort at the beginning can save you a lot of time and money when something goes sideways.\</p>
+
+            <footer class="footline">
+            </footer>
+          </article>
+
+        </div>
+      </main>
+    </div>
+    <script src="/js/clipboard.min.js?1723930790" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1723930790" defer></script>
+    <script src="/js/theme.js?1723930790" defer></script>
+  </body>
+</html>

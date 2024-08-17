@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation :: Unreal Metadata Editor Documentation</title>
+    <link>//localhost:1313/installation/index.html</link>
+    <description>Installation Installation from Unreal Marketplace Up to date installation guide for Unreal Marketplace users: Official Documentation&#xA;Plugin location If by any reason, you are installing the plugin manually, unpack it to&#xA;{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under&#xA;C:\Program Files\Epic Games\UE_[version]\Engine\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -&gt; Plugins. Search for Metadata Editor and toggle the plugin.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/installation/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
