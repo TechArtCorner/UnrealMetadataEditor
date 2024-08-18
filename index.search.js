@@ -1,8 +1,8 @@
 var relearn_search_index = [
   {
     "breadcrumb": "Overview",
-    "content": "Installation Installation from Unreal Marketplace Up to date installation guide for Unreal Marketplace users: Official Documentation\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins. Search for Metadata Editor and toggle the plugin. Remember to restart Unreal. ",
-    "description": "Installation Installation from Unreal Marketplace Up to date installation guide for Unreal Marketplace users: Official Documentation\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins. Search for Metadata Editor and toggle the plugin.",
+    "content": "Installation Installation from Unreal Marketplace Up-to-date installation guide for Unreal Marketplace users: Official Documentation\nPlugin dependencies Metadata Editor plugin has dependencies on two built-in Unreal plugins:\nEditor Scripting Utilities Python Script Plugin Plugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins. Search for Metadata Editor and toggle the plugin. Remember to restart Unreal. ",
+    "description": "Installation Installation from Unreal Marketplace Up-to-date installation guide for Unreal Marketplace users: Official Documentation\nPlugin dependencies Metadata Editor plugin has dependencies on two built-in Unreal plugins:\nEditor Scripting Utilities Python Script Plugin Plugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins.",
     "tags": [],
     "title": "Installation",
     "uri": "/installation/index.html"
@@ -30,6 +30,14 @@ var relearn_search_index = [
     "tags": [],
     "title": "Tech Art Corner",
     "uri": "/techartcorner/index.html"
+  },
+  {
+    "breadcrumb": "Overview",
+    "content": "Discord You can contact me on Discord. It may be easier to use than email and will let us have more realtime conversation.\nEmail techartcorner@gmail.com",
+    "description": "Discord You can contact me on Discord. It may be easier to use than email and will let us have more realtime conversation.\nEmail techartcorner@gmail.com",
+    "tags": [],
+    "title": "Support",
+    "uri": "/support/index.html"
   },
   {
     "breadcrumb": "",
