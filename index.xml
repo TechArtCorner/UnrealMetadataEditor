@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview :: Unreal Metadata Editor Documentation</title>
-    <link>/index.html</link>
+    <link>//localhost:1313/index.html</link>
     <description>Unreal Metadata Editor A friendly user interface for editing Unreal asset metadata. Currently, plugin supports editing a single asset at once.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation</title>
-      <link>/installation/index.html</link>
+      <link>//localhost:1313/installation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/installation/index.html</guid>
+      <guid>//localhost:1313/installation/index.html</guid>
       <description>Installation Installation from Unreal Marketplace Up-to-date installation guide for Unreal Marketplace users: Official Documentation&#xA;Plugin dependencies Metadata Editor plugin has dependencies on two built-in Unreal plugins:&#xA;Editor Scripting Utilities Python Script Plugin Plugin location If by any reason, you are installing the plugin manually, unpack it to&#xA;{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under&#xA;C:\Program Files\Epic Games\UE_[version]\Engine\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -&gt; Plugins.</description>
     </item>
     <item>
       <title>User Guide</title>
-      <link>/userguide/index.html</link>
+      <link>//localhost:1313/userguide/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/userguide/index.html</guid>
+      <guid>//localhost:1313/userguide/index.html</guid>
       <description>Metadata Editor User Guide It’s main purpose is to make metadata editing simple and thus this guide also will be simple. Key information Editor can edit only one asset at a time. If multiple assets were selected, editor will open for the first one. Name of selected asset is always visible in top left side of the editor.&#xA;Edit metadata of an asset Pick an asset of choice in Content Browser and Right Mouse Button on it.</description>
     </item>
     <item>
       <title>Why Metadata</title>
-      <link>/whymetadata/index.html</link>
+      <link>//localhost:1313/whymetadata/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/whymetadata/index.html</guid>
+      <guid>//localhost:1313/whymetadata/index.html</guid>
       <description>Why use asset Metadata at all? Metadata describes an asset Basic metadata like asset type, mesh poly count or program of origin can be extremely useful.&#xA;Such information, if easily accessible can be a helpful guide for anyone looking for asset that matches (or doesn’t) certain criteria.&#xA;It can help you in daily situations like looking for an author of an asset.&#xA;Of course, this case should be already taken cared by a Version Control System but in that case, it’s the VCS that stores the metadate because metadata can be stored in multiple places - assets itself, VCS systems, external files or databases.</description>
     </item>
     <item>
       <title>Tech Art Corner</title>
-      <link>/techartcorner/index.html</link>
+      <link>//localhost:1313/techartcorner/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/techartcorner/index.html</guid>
+      <guid>//localhost:1313/techartcorner/index.html</guid>
       <description>This plugin has been brought to you by Tech Art Corner. I hope it will serve you well, And you will no longer be irritated by lack of some simple metadata editor that does not require scripting or creating a node graph to just add a simple tag to an asset.&#xA;I’m open to feedback and if by any chance, this plugin gets popular, I’m looking forward to making it better.</description>
     </item>
     <item>
       <title>Support</title>
-      <link>/support/index.html</link>
+      <link>//localhost:1313/support/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/support/index.html</guid>
+      <guid>//localhost:1313/support/index.html</guid>
       <description>Discord You can contact me on Discord. It may be easier to use than email and will let us have more realtime conversation.&#xA;Email techartcorner@gmail.com</description>
     </item>
   </channel>
