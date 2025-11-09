@@ -41,8 +41,8 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Unreal Metadata Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.",
-    "description": "Unreal Metadata Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.",
+    "content": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.",
+    "description": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.",
     "tags": [],
     "title": "Overview",
     "uri": "/index.html"
