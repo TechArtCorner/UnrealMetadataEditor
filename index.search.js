@@ -1,8 +1,8 @@
 var relearn_search_index = [
   {
     "breadcrumb": "Overview",
-    "content": "Installation Installation from Unreal Marketplace Up-to-date general guide for Working with plugins in Unreal Engine\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins.\nSearch for Metadata Editor and toggle the plugin.\nRemember to restart Unreal.",
-    "description": "Installation Installation from Unreal Marketplace Up-to-date general guide for Working with plugins in Unreal Engine\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins.\nSearch for Metadata Editor and toggle the plugin.",
+    "content": "Where to get it You can get Metadata Tags Editor on Fab.\nInstallation from Fab Up-to-date general guide for Working with plugins in Unreal Engine.\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins.\nSearch for Metadata Editor and toggle the plugin.\nRemember to restart Unreal.",
+    "description": "Where to get it You can get Metadata Tags Editor on Fab.\nInstallation from Fab Up-to-date general guide for Working with plugins in Unreal Engine.\nPlugin location If by any reason, you are installing the plugin manually, unpack it to\n{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under\nC:\\Program Files\\Epic Games\\UE_[version]\\Engine\\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -\u003e Plugins.",
     "tags": [],
     "title": "Installation",
     "uri": "/installation/index.html"
@@ -41,8 +41,8 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.",
-    "description": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.",
+    "content": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab! ",
+    "description": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab! ",
     "tags": [],
     "title": "Overview",
     "uri": "/index.html"

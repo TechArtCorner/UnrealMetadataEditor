@@ -3,7 +3,7 @@
   <channel>
     <title>Overview :: Unreal Metadata Editor Tags Documentation</title>
     <link>/index.html</link>
-    <description>Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.</description>
+    <description>Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.&#xA;Get it on Fab! </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>/installation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/installation/index.html</guid>
-      <description>Installation Installation from Unreal Marketplace Up-to-date general guide for Working with plugins in Unreal Engine&#xA;Plugin location If by any reason, you are installing the plugin manually, unpack it to&#xA;{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under&#xA;C:\Program Files\Epic Games\UE_[version]\Engine\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -&gt; Plugins.&#xA;Search for Metadata Editor and toggle the plugin.</description>
+      <description>Where to get it You can get Metadata Tags Editor on Fab.&#xA;Installation from Fab Up-to-date general guide for Working with plugins in Unreal Engine.&#xA;Plugin location If by any reason, you are installing the plugin manually, unpack it to&#xA;{PROJECT_DIRECTORY/Plugins}You can also unpack it to you main Unreal installation which is located under&#xA;C:\Program Files\Epic Games\UE_[version]\Engine\Plugins on Windows /Users/Shared/Epic Games/UE_[version]/Engine/Plugins on macOS Enabling the plugin Navigate to editor top bar and open Edit -&gt; Plugins.</description>
     </item>
     <item>
       <title>User Guide</title>
