@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installation :: Unreal Metadata Editor Tags Documentation</title>
-    <link>/installation/index.html</link>
+    <link>//localhost:1313/installation/index.html</link>
     <description>Where to get it You can get Metadata Tags Editor on Fab.&#xA;Installation from Fab Up-to-date general guide for Working with plugins in Unreal Engine.&#xA;Manual build Users who are using Source Code distribution from Gumroad will get plugin without prebuilt binaries. Unreal should rebuild them on project startup but if it does not happen, please refer to official tutorial.&#xA;Plugin location If by any reason, you are installing the plugin manually, unpack it to</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/installation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/installation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
