@@ -41,8 +41,8 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "",
-    "content": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab or on Gumroad! ",
-    "description": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab or on Gumroad! ",
+    "content": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab or on Gumroad! See it on YouTube! Watch the demo! ",
+    "description": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab or on Gumroad! See it on YouTube! Watch the demo! ",
     "tags": [],
     "title": "Overview",
     "uri": "/index.html"
