@@ -40,6 +40,14 @@ var relearn_search_index = [
     "uri": "/support/index.html"
   },
   {
+    "breadcrumb": "Overview",
+    "content": "1.1.0 Applying changes to multiple assets at once is now smarter and will not accidentally overwrite metadatatags. Overwrite and Append are now replaced by Clear \u0026 Overwrite and Smart Apply.\nClear \u0026 Overwrite All assets end up having exactly the same properties as visible in Metadata Tags Editor.\n*Smart Apply * This feature compares initial metadata tags with what is visible in the editor. The editor knows which tags were added, removed, modified or left unchanged. It will apply only those changes. Thanks to it, a chance of breaking your assets metadata is much lower.\n1.0.0 Initial release.",
+    "description": "1.1.0 Applying changes to multiple assets at once is now smarter and will not accidentally overwrite metadatatags. Overwrite and Append are now replaced by Clear \u0026 Overwrite and Smart Apply.\nClear \u0026 Overwrite All assets end up having exactly the same properties as visible in Metadata Tags Editor.\n*Smart Apply * This feature compares initial metadata tags with what is visible in the editor. The editor knows which tags were added, removed, modified or left unchanged.",
+    "tags": [],
+    "title": "Changelog",
+    "uri": "/changelog/index.html"
+  },
+  {
     "breadcrumb": "",
     "content": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab or on Gumroad! See it on YouTube! Watch the demo! ",
     "description": "Unreal Metadata Tags Editor A friendly user interface for editing Unreal asset metadata tags. Apply changes to one or more assets at once.\nGet it on Fab or on Gumroad! See it on YouTube! Watch the demo! ",

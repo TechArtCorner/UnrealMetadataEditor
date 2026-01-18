@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Changelog :: Unreal Metadata Editor Tags Documentation</title>
+    <link>/changelog/index.html</link>
+    <description>1.1.0 Applying changes to multiple assets at once is now smarter and will not accidentally overwrite metadatatags. Overwrite and Append are now replaced by Clear &amp; Overwrite and Smart Apply.&#xA;Clear &amp; Overwrite All assets end up having exactly the same properties as visible in Metadata Tags Editor.&#xA;*Smart Apply * This feature compares initial metadata tags with what is visible in the editor. The editor knows which tags were added, removed, modified or left unchanged.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/changelog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
