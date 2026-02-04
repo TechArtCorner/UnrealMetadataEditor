@@ -48,7 +48,7 @@
       <link>/changelog/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/changelog/index.html</guid>
-      <description>1.1.0 Applying changes to multiple assets at once is now smarter and will not accidentally overwrite metadatatags. Overwrite and Append are now replaced by Clear &amp; Overwrite and Smart Apply.&#xA;Clear &amp; Overwrite All assets end up having exactly the same properties as visible in Metadata Tags Editor.&#xA;*Smart Apply * This feature compares initial metadata tags with what is visible in the editor. The editor knows which tags were added, removed, modified or left unchanged.</description>
+      <description>1.2.0 Paste JSON You can now fill Metadata Tags Editor with data from JSON. Additionally, Ctrl + C and Ctrl + V support was added.&#xA;Menu item icons Added icons to all menu entries.&#xA;1.1.0 Applying changes to multiple assets at once is now smarter and will not accidentally overwrite metadata tags. Overwrite and Append are now replaced by Clear &amp; Overwrite and Smart Apply.&#xA;Clear &amp; Overwrite All assets end up having exactly the same properties as visible in Metadata Tags Editor.</description>
     </item>
   </channel>
 </rss>
